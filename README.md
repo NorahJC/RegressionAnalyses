@@ -28,3 +28,4 @@ https://www.geeksforgeeks.org/python-implementation-of-polynomial-regression/
 https://www.youtube.com/watch?v=FU_awoUOqwc (Polynimal Regression)
 https://www.ritchieng.com/machine-learning-polynomial-regression/
 http://www.ittc.ku.edu/~beckage/2017ds/Homeworks/HW3-solutions_R_final.pdf
+https://www.youtube.com/watch?v=5rvnlZWzox8&index=22&list=PLZoTAELRMXVOnN_g96ayzXX5i7RRO0QhL (Multiple Linear)
