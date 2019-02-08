@@ -43,7 +43,6 @@ plt.ylabel('Salary')
 plt.show()
 
 # Predicting a new result with Polynomial Regression
-##lin2.predict(poly.fit_transform(6.5))
-##print('Done')
-
-#print ('A close approximation is 1726723')
+X_test = 6.5
+y_pred = lin2.predict(poly.fit_transform([[X_test]]))
+print('The predicted salary for a level 6.5 is %.3f' % (y_pred))
