@@ -17,6 +17,10 @@ So, you have four features (Product_1, Product_2, Product_3, Location) will help
 You have a dataset (Propose-Salaries-Polynomial.csv) contains three columns: Position, Level, and Salary. 
 Your task is fitting the line that enables to estimate new salaries (y’s) based on the levels to new hire employees using the polynomial regression technique! Please assume that the level represents the position code (x’s), so you don’t need to use the position field during building your model! 
 I want to find the estimate salary to a new hire employee at a level of 6.5! 
+4- Logistic
+Attached please find the dataset (advertising_appeals.csv) to use during your Logistic Regression implementation.
+The dataset contains five columns: Customer ID, Gender, Age, Salary, and Purchased. 
+Your task is to predict whether the customers more likely to purchase (y's) the new vehicle after receiving the ad emails based-on the age and the salary (x's) or not? using logistic regression techniques!
 
 Helpful Websites:
 https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/
