@@ -1,7 +1,7 @@
 # RegressionAnalyses
 ## Machine Learning - CS4267
 
-Using Python and R, simple linear, multiple, and polynomial regressions were performed.
+Using Python, simple linear, multiple, and polynomial regressions were performed.
 
 The prompt:
 
